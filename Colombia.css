@@ -50,6 +50,7 @@ ul {
   margin-top: 10px;
   vertical-align: middle;
 }
+
 .center1 {
   display: block;
   margin-left: auto;
@@ -58,22 +59,24 @@ ul {
 }
 
 .container{
-  	max-width: 100%;
-  	width: 350px;
-	height: 250px;
-	margin: 0px;
+  max-width: 100%;
+  width: 380px;
+/*	height: 250px;*/
+/*	margin: 10px;*/
 	transition:  all 1s;
 
 }
 
 .container1{
   	max-width: 100%;
-  	width: 350px;
-	 margin: 20px;
+  	width: 380px;
+    margin: 10px;
+   margin-left: 30px;
+   margin-top: 20px;
 	 transition:  all 1s;
 	 position: relative;
   	text-align: center;
-  	justify-content: space-around;
+  	justify-content: space-evenly;
   	color: black;
 }
 .container:hover {
