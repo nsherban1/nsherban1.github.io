@@ -42,9 +42,11 @@ ul {
     border: 1px solid #aaa;
     display: table;
     font-size: 95%;
+    margin-left: 130px;
+    margin-right: 20px;
     margin-bottom: 1em;
     padding: 20px;
-    width: auto;
+    width: 50%;
 }
 
 .toc_title {
