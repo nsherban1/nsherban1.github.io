@@ -143,9 +143,9 @@ ul {
   margin-right: auto;
   width: 100%;
 }
-/*.map {
-  margin-left: 60px;
-}*/
+.map {
+  margin-left: 80px;
+}
 .footer {  
   position: unset;  
   left: 5px;  
