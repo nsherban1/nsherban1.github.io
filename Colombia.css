@@ -147,6 +147,10 @@ ul {
 .map {
   margin-left: 80px;
 }
+.piccontents{
+  max-width: 100%;
+  justify-content: space-around;
+}
 .footer {  
   position: unset;  
   left: 5px;  
