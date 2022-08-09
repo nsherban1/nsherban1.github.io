@@ -99,7 +99,10 @@ ul {
   margin-top: 10px;
   vertical-align: middle;
 }
-
+.listwrap {
+  text-align: center;
+  background-color: lightblue;
+}
 .center1 {
   display: block;
   margin-left: auto;
