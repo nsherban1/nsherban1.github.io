@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "bggenerator.js",
+  "homepage": "https://nsherban1.github.com/nsherban1.github.io",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -14,6 +17,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nsherban1/nsherban1.github.io/issues"
-  },
-  "homepage": "https://github.com/nsherban1/nsherban1.github.io#readme"
+  }
 }
