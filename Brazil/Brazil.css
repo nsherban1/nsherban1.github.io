@@ -26,8 +26,6 @@ h4 {
   text-align: left;
   text-align: center;
   font-family: serif;
-  /*  margin-right: 160px;
-  margin-left: 100px;*/
 }
 
 h5 {
@@ -42,7 +40,6 @@ h6 {
 
 ul {
   list-style: none;
-  /*display: flex;*/
   justify-content: space-evenly;
   margin: 0;
   padding: 0;
@@ -72,10 +69,7 @@ ul {
   background: #f9f9f9 none repeat scroll 0 0;
   border: 1px solid #aaa;
   display: table;
-  /* font-size: 95%;*/
-  /*margin-left: 150px;*/
   font-family: sans-serif;
-  /*margin-right: 20px;*/
   margin: auto;
   padding: 20px;
   width: 35%;
@@ -113,7 +107,6 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  /*width: 50%;*/
   width: 800px;
   height: 400px;
 }
@@ -137,8 +130,6 @@ ul {
 .container {
   max-width: 100%;
   width: 380px;
-  /*	height: 250px;*/
-  /*	margin: 10px;*/
   transition: all 1s;
 }
 
@@ -162,13 +153,13 @@ ul {
   color: black;
 }
 
-.container:hover {
+/* .container:hover {
   transform: scale(1.1);
 }
 
 .container1:hover {
   transform: scale(1.1);
-}
+} */
 
 .centered {
   position: absolute;
