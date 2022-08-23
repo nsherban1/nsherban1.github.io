@@ -128,10 +128,10 @@ img {
 }
 
 .backgroundband {
-  background-color: rgb(168, 168, 168, 0.35);
+  background-color: rgb(168, 168, 168, 0.25);
 }
 .backgroundband2 {
-  background-color: rgb(168, 168, 168, 0.35);
+  background-color: rgb(168, 168, 168, 0.25);
 }
 
 @media screen and (max-width: 768px) {
