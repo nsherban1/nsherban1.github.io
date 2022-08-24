@@ -156,6 +156,7 @@ img {
   animation-iteration-count: infinite;
   animation-duration: 2s;
   font-size: 50px;
+  font-family: "Alumni Sans Collegiate One", sans-serif;
 }
 
 @keyframes movetext {
