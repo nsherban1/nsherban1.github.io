@@ -84,6 +84,23 @@ ul {
 #toc_container ul li {
   list-style: outside none none !important;
 }
+.form_control {
+  display: inherit;
+  width: 100%;
+  padding: 1em 1em;
+}
+
+#results {
+  display: block;
+  padding: 10px;
+  background-color: lightgray;
+  opacity: 0.9;
+  color: black;
+  position: absolute;
+}
+.hidden {
+  display: none;
+}
 .row {
   display: flex;
   flex-wrap: wrap;

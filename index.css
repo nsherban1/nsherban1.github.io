@@ -113,7 +113,6 @@ img {
 
 #results {
   display: block;
-  padding: 10px;
   background-color: white;
   opacity: 0.9;
   color: black;
@@ -122,10 +121,6 @@ img {
 }
 .hidden {
   display: none;
-}
-
-.name {
-  color: black;
 }
 
 .column {
