@@ -64,7 +64,7 @@ ul {
 }
 
 li {
-  margin: 3em;
+  margin: 2.5em;
 }
 
 img {
@@ -98,6 +98,7 @@ img {
 .dropdown-item {
   font-size: 18px;
   font-family: serif;
+  line-height: 0px;
 }
 
 .btn {
@@ -114,11 +115,17 @@ img {
   display: block;
   padding: 10px;
   background-color: white;
+  opacity: 0.9;
   color: black;
   line-height: 0px;
+  position: absolute;
 }
 .hidden {
   display: none;
+}
+
+.name {
+  color: black;
 }
 
 .column {

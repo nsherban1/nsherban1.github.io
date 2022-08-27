@@ -33,12 +33,7 @@ form_control.addEventListener("keyup", (event) => {
 });
 
 form_control.addEventListener("click", function () {
-  console.log("button clicked");
   hidden.classList.remove("hidden");
-});
-
-wrapper.addEventListener("click", function () {
-  hidden.classList.add("hidden");
 });
 
 wrapper.addEventListener("click", function () {
