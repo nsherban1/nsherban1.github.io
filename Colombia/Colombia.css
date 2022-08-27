@@ -39,7 +39,7 @@ h6 {
 
 ul {
   list-style: none;
-  display: flex;
+  /* display: flex; */
   justify-content: space-evenly;
   margin: 0;
   padding: 0;
@@ -84,6 +84,7 @@ ul {
 #toc_container ul li {
   list-style: outside none none !important;
 }
+
 .form_control {
   display: inherit;
   width: 100%;
