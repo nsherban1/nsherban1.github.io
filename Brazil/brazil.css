@@ -121,7 +121,10 @@ ul {
   margin-top: 10px;
   vertical-align: middle;
 }
-
+.listwrap {
+  text-align: center;
+  background-color: #bbcdd5;
+}
 .center1 {
   display: block;
   margin-left: auto;

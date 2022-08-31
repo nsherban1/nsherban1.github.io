@@ -111,6 +111,10 @@ ul {
 .hidden {
   display: none;
 }
+.listwrap {
+  text-align: center;
+  background-color: #bbcdd5;
+}
 
 .row {
   display: flex;

@@ -136,6 +136,10 @@ ul {
   width: 800px;
   height: 400px;
 }
+.listwrap {
+  text-align: center;
+  background-color: #bbcdd5;
+}
 
 .center2 {
   display: block;
