@@ -5,11 +5,15 @@
 }
 
 html {
+  margin: 0;
+  padding: 0;
   font-size: 62.5%;
   box-sizing: border-box;
 }
 
 body {
+  margin: 0;
+  padding: 0;
   font-family: sans-serif;
   color: #333;
   line-height: 1.5;
@@ -20,8 +24,19 @@ body {
   justify-content: center;
   background: linear-gradient(to top left, #6e0606, #ffffff);
 }
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+img {
+  margin-left: 60px;
+}
 .modalBtnsAll {
   justify-content: space-around;
+  margin-left: 40px;
 }
 .show-modal {
   font-size: 2rem;
@@ -220,4 +235,7 @@ p {
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(3px);
   z-index: 5;
+}
+.pricelist {
+  font-size: 16px;
 }

@@ -119,3 +119,9 @@ document.addEventListener("keydown", function (e) {
     closeModalc();
   }
 });
+
+// window.onload = function () {
+//   Particles.init({
+//     selector: ".background",
+//   });
+// };
