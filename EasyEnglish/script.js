@@ -120,8 +120,8 @@ document.addEventListener("keydown", function (e) {
   }
 });
 
-// window.onload = function () {
-//   Particles.init({
-//     selector: ".background",
-//   });
-// };
+window.onload = function () {
+  Particles.init({
+    selector: ".background",
+  });
+};
