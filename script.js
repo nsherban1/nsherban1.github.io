@@ -42,7 +42,7 @@ wrapper.addEventListener("click", function () {
 
 // btn.addEventListener("click", function () {
 //   console.log("button clicked");
-//   if ((value = colombia)) {
-//     window.location.replace(Colombia / colombia.html);
+//   if (value.includes("colombia")) {
+//     location.href = Colombia / colombia.html;
 //   }
 // });
