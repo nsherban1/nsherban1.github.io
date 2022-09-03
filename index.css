@@ -14,7 +14,7 @@ body {
   color: rgba(0, 255, 255, 0.5);
   text-align: center;
   top: 15%;
-  background: linear-gradient(to right, rgb(0, 60, 97), black) no-repeat center
+  background: linear-gradient(to right, rgb(0, 60, 97), white) no-repeat center
     center fixed;
 }
 

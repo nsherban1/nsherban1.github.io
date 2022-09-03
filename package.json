@@ -17,5 +17,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nsherban1/nsherban1.github.io/issues"
+  },
+  "dependencies": {
+    "particles.js": "^2.0.0"
   }
 }
