@@ -12,8 +12,8 @@ body {
 body {
   font-family: serif;
   color: rgba(0, 255, 255, 0.5);
-  /* text-align: center; */
   top: 15%;
+  text-align: center;
   background: linear-gradient(to right, rgb(0, 60, 97), white) no-repeat center
     center fixed;
 }
@@ -67,7 +67,8 @@ img {
   max-width: 85%;
   /*width: 350px;*/
   height: auto;
-  margin-left: 18px;
+  margin-right: 25px;
+  text-align: none;
 }
 
 .btn {
