@@ -162,7 +162,7 @@ ul {
   width: 380px;
   margin: 10px;
   height: 300px;
-  margin-left: 30px;
+  margin-left: auto;
   margin-top: 20px;
   transition: all 1s;
   position: relative;
