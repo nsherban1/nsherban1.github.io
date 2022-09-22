@@ -107,6 +107,10 @@ img {
   width: 100%;
   padding: 1em 1em;
 }
+.section--hidden {
+  opacity: 0;
+  transform: translateY(8rem);
+}
 
 #results {
   display: block;
