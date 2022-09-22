@@ -6,6 +6,7 @@ const hidden = document.querySelector(".hidden");
 const wrapper = document.querySelector(".wrapper");
 const navbar = document.querySelector(".navbar");
 const btn = document.querySelector(".btn");
+const allSections = document.querySelectorAll(".backgroundband2");
 
 // store name elements in array-like object
 const namesFromDOM = document.getElementsByClassName("name");
@@ -46,8 +47,8 @@ wrapper.addEventListener("click", function () {
 //     location.href = Colombia / colombia.html;
 //   }
 // });
+
 //Reveal sections
-const allSections = document.querySelectorAll(".backgroundband2");
 
 const revealSection = function (entries, observer) {
   const [entry] = entries;
