@@ -186,7 +186,9 @@ ul {
   font-size: large;
   font-weight: bold;
 }
-
+#results {
+  z-index: 5;
+}
 .center {
   display: block;
   margin-left: auto;
