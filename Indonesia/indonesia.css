@@ -202,6 +202,9 @@ ul {
   .map {
     margin-left: 0%;
   }
+  #toc_container {
+    width: 90%;
+  }
 }
 .piccontents {
   max-width: 100%;
