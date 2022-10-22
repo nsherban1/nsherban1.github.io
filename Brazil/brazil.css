@@ -207,6 +207,11 @@ ul {
 .map {
   margin-left: 80px;
 }
+@media screen and (max-width: 500px) {
+  .map {
+    margin-left: 0%;
+  }
+}
 
 .footer {
   position: unset;
