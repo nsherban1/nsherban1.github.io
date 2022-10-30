@@ -9,6 +9,7 @@ img {
 video {
   max-width: 100%;
   width: 600px;
+  height: 295px;
 }
 a {
   text-decoration: none;
