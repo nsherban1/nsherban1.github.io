@@ -206,6 +206,12 @@ ul {
   #toc_container {
     width: 90%;
   }
+  .center1 {
+    height: 300px;
+  }
+  .center {
+    height: 280px;
+  }
 }
 .piccontents {
   max-width: 100%;
