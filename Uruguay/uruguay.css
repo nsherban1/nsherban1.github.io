@@ -10,6 +10,7 @@ video {
   max-width: 100%;
   width: 600px;
   height: 295px;
+  /* margin: 5px; */
 }
 a {
   text-decoration: none;
