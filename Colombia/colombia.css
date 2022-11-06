@@ -9,8 +9,8 @@ img {
 video {
   max-width: 100%;
   width: 600px;
-  height: 272px;
-  margin: 5px;
+  height: 277px;
+  /* margin: 5px; */
 }
 a {
   text-decoration: none;

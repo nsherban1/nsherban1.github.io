@@ -40,7 +40,6 @@ function addDelButton(parent) {
     this.parentElement.remove();
   };
 }
-
 button.addEventListener("click", addListAfterClick);
 
 input.addEventListener("keypress", addListAfterKeypress);
