@@ -225,6 +225,9 @@ ul {
   #toc_container {
     width: 90%;
   }
+  .center1 {
+    height: 280px;
+  }
 }
 
 .footer {
