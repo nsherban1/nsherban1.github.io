@@ -8,8 +8,9 @@ img {
 
 video {
   max-width: 100%;
+  top: 50%;
   width: 600px;
-  height: 277px;
+  height: 267px;
   /* margin: 5px; */
 }
 a {
