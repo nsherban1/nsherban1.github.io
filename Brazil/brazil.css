@@ -202,7 +202,7 @@ ul {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 267px;
+  /* height: 267px; */
 }
 
 .map {
