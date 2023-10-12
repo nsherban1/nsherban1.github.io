@@ -1,6 +1,6 @@
 img {
   max-width: 100%;
-  width: 600px;
+  /* width: 600px; */
   /*	height: 450px;
   */
   margin: 5px;
@@ -198,11 +198,11 @@ ul {
   width: 100%;
 }
 .map {
-  margin-left: 80px;
+  margin-left: 180px;
 }
 @media screen and (max-width: 500px) {
   .map {
-    margin-left: 0%;
+    margin-left: 7%;
   }
   #toc_container {
     width: 90%;
